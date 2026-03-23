@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nusratcodes&label=Profile%20views&color=0e75b6&style=flat" alt="nusratcodes" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nusratcodes" alt="nusratcodes" /></a> </p>
+<p align="left"> <a href="https://github.com/nusratcodes/nusratcodes.gits" alt="nusratcodes" /></a> </p>
 
 - 🔭 I’m currently working on **Event Management App**
 
