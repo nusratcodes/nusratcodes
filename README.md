@@ -49,10 +49,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nusratcodes&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 </div>
 
-<br/>
-
-<div align="center">
-  <a href="https://github.com/nusratcodes">
-    <img src="https://github-readme-streak-stats.demolab.com/?user=nusratcodes&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
-  </a>
-</div>
