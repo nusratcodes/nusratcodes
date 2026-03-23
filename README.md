@@ -5,7 +5,7 @@
   <p><i>Building smooth digital experiences, from solid backend logic to intuitive interfaces. ✨</i></p>
 
   <p>
-    <a href="mailto:progganusrat2020@gmail.com"><img src="https://img.shields.io/badge/Email-progganusrat2020%40gmail.com-9C27B0?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:progganusrat2020@gmail.com"><img src="https://img.shields.io/badge/Email-progganusrat2020%40gmail.com-F48FB1?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   </p>
 </div>
