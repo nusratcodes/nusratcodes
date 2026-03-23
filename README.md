@@ -5,14 +5,16 @@
   <p><i>Building smooth digital experiences, from solid backend logic to intuitive interfaces. ✨</i></p>
 
   <p>
-    <a href="mailto:progganusrat2020@gmail.com"><img src="https://img.shields.io/badge/Email-progganusrat2020%40gmail.com-F48FB1?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  </p>
-
+    <a href="mailto:progganusrat2020@gmail.com">
+      <img src="https://img.shields.io/badge/Email-progganusrat2020%40gmail.com-FFC0CB?style=flat&logo=gmail&logoColor=white" />
+    </a>
+   
   <!-- 🌐 Portfolio Button -->
   <p>
     <a href="https://nusratcodes.github.io/Portfolio2/" target="_blank">
-     <img src="https://img.shields.io/badge/🌸%20Visit%20My%20Portfolio-FFB6C1?style=flat&logo=heart&logoColor=white" />
+      <img src="https://img.shields.io/badge/🌸%20Visit%20My%20Portfolio-FFE4E9?style=flat&logo=heart&logoColor=white" />
+    </a>
+  </p>
 </div>
 
 <br/>
