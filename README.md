@@ -45,7 +45,10 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nusratcodes&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nusratcodes&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=nusratcodes&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=10" width="48%" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nusratcodes&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=10" width="48%" />
+
 </div>
 
