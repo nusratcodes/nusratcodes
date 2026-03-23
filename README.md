@@ -1,48 +1,58 @@
 <div align="center">
-  <h1>Hi there! 👋 I'm Nusrat Hossain</h1>
-  <h3>Computer Science Student 🌸 | Backend & UI/UX Enthusiast 🎨</h3>
-  <p><i>Building smooth digital experiences, one line of code at a time! ✨</i></p>
+  <h1>Hi there 👋, I'm Nusrat Hossain</h1>
+  <h3>Computer Science Student | Backend & UI/UX Enthusiast</h3>
+  
+  <p><i>Building smooth digital experiences, from solid backend logic to intuitive interfaces. ✨</i></p>
+
+  <p>
+    <a href="mailto:progganusrat2020@gmail.com"><img src="https://img.shields.io/badge/Email-progganusrat2020%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  </p>
 </div>
 
 <br/>
 
-### 👩🏻‍💻 A little about me...
+### 👩🏻‍💻 Current Focus
 
-- 🔭 I’m currently building **Eventra**, a comprehensive Event Management App.
-- 🌱 I’m currently leveling up my skills in **Jetpack Compose** and **Firebase**.
-- 💡 I love exploring the sweet spot between robust backend systems and intuitive UI/UX design.
-- 📫 Let's chat! Reach me at: **[progganusrat2020@gmail.com](mailto:progganusrat2020@gmail.com)**
+* **🛠️ Building:** **Eventra**, a comprehensive and user-friendly Event Management App.
+* **🌱 Learning:** Diving deeper into **Jetpack Compose** for modern Android UI and **Firebase** for scalable backend infrastructure.
+* **💡 Passionate About:** Solving complex problems—from analyzing intricate circuit systems to architecting robust backends and pixel-perfect UI/UX designs.
 
+---
 
+### 💻 Tech Stack & Tools
 
-### 🛠️ Languages & Tools
-
+**Mobile & Backend Development**
 <p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="45" height="45"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="45"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/> </a> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="45" height="45"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45"/> 
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="45"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/> 
 </p>
 
-
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nusratcodes&show_icons=true&locale=en&layout=compact&theme=rose_pine" alt="nusratcodes" />
+**Frontend & Design**
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
 </p>
 
+---
 
+### 📊 GitHub Activity & Stats
 
-### 🤝 Let's Connect!
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nusratcodes&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nusratcodes&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+</div>
 
-<p align="left">
- 
-  
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/></a>
-</p>
+<br/>
+
+<div align="center">
+  <a href="https://github.com/nusratcodes">
+    <img src="https://github-readme-streak-stats.demolab.com/?user=nusratcodes&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
+  </a>
+</div>
