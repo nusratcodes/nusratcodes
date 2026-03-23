@@ -13,7 +13,7 @@
 - 💡 I love exploring the sweet spot between robust backend systems and intuitive UI/UX design.
 - 📫 Let's chat! Reach me at: **[progganusrat2020@gmail.com](mailto:progganusrat2020@gmail.com)**
 
----
+
 
 ### 🛠️ Languages & Tools
 
@@ -29,7 +29,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/> </a> 
 </p>
 
----
+
 
 ### 📊 GitHub Stats
 
@@ -37,7 +37,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nusratcodes&show_icons=true&locale=en&layout=compact&theme=rose_pine" alt="nusratcodes" />
 </p>
 
----
+
 
 ### 🤝 Let's Connect!
 
