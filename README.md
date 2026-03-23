@@ -5,9 +5,14 @@
   <p><i>Building smooth digital experiences, from solid backend logic to intuitive interfaces. ✨</i></p>
 
   <p>
-    <a href="mailto:progganusrat2020@gmail.com"><img src="https://img.shields.io/badge/Email-progganusrat2020%40gmail.com-F48FB1?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:progganusrat2020@gmail.com"><img src="https://img.shields.io/badge/Email-progganusrat2020%40gmail.com-F48FB1?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   </p>
+
+  <!-- 🌐 Portfolio Button -->
+  <p>
+    <a href="https://nusratcodes.github.io/Portfolio2/" target="_blank">
+     <img src="https://img.shields.io/badge/🌸%20Visit%20My%20Portfolio-FFB6C1?style=flat&logo=heart&logoColor=white" />
 </div>
 
 <br/>
@@ -39,11 +44,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
 </p>
-
----
-
-### 📊 GitHub Activity & Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nusratcodes&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nusratcodes&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
